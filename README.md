@@ -1,0 +1,2 @@
+# Pentaho-DWH
+Repozytorium BI 
